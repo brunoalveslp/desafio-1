@@ -24,28 +24,6 @@ function calculadora(origem, destino, valor) {
   return (origem * valor) / destino;
 }
 
-/*
-                        Modo de uso
-    1) Chame a função calcular passando os 3 parametros dentro de cum console.log().
-    Parametros
-        1- Entre com o codigo da moeda de origem como string.
-        2- Entre com o codigo da moeda de destino como string.
-        3- Entre com o valor a ser convertido como number.
-    2) Execute o codigo no node.
-
-
-    Codigos
-    -- 'BTC' = BITCOIN
-    -- 'CAD' = DOLAR CANADENSE
-    -- 'USD' = DOLAR AMERICANO
-    -- 'EUR' = EURO
-    -- 'JPY' = IENE
-    -- 'GBP' = LIBRA ESTERLINA
-    -- 'BRL' = REAL
-    -- 'CNY' = YUAN
-
-*/
-
 // Testes
 
 //-> 100 DOLARES para EURO
